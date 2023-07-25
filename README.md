@@ -1,4 +1,4 @@
-# Analyzing Yelp Database in SQL
+# Querying and Analyzing the Yelp Database in SQL
 This is the final assignment of _SQL for Data Science_, a course created by the University of California, Davis and offered by Coursera. 
 
 ## What is the task?
