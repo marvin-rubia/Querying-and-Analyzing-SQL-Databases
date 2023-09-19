@@ -1,7 +1,7 @@
 # SQL Query and Analysis
 This repository contains the links to my two educational blogs about SQL. One has to do with the Yelp database analysis and another has to do with SQL window functions. 
 
-## Yelp Database 
+## Yelp Database Analysis
 This is the final assignment of _SQL for Data Science_, a course created by the University of California, Davis and offered by Coursera. The final assignment accesses the Yelp database, within the Coursera platform, and provides a worksheet of questions that test students' SQL skills. The name of the final assignment is __Data Scientist Role Play: Profiling and Analyzing the Yelp Dataset__. The picture below shows the ER diagram of the Yelp database. 
 
 ![image](https://github.com/marvin-rubia/Querying-and-Analyzing-the-Yelp-Database-in-SQL/assets/140475770/0aebcbf7-5008-46bc-b61b-627ae5dc54d1)
