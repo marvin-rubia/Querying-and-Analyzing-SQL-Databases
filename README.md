@@ -11,7 +11,7 @@ I wrote a blog to guide _anyone_ in accomplishing the assignment. Here is the li
 
 ## Making Sense of Window Functions
 
-In this article, let us briefly cover when the `GROUP BY` clause is limited and see how window functions can help. Let us also explore the power of some SQL window functions using a sample database, explained codes, and visual guidance.
+In this article, I briefly cover when the `GROUP BY` clause is limited and how window functions can help. It also explores the power of some SQL window functions using a sample database, explained codes, and visual guidance.
 
 ![image](https://github.com/marvin-rubia/SQL-Query-and-Analysis/assets/140475770/41e2503d-4033-4ca6-ae8f-4756dcb260ca)
 
