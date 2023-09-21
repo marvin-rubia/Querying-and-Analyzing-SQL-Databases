@@ -1,4 +1,4 @@
-# SQL Query and Analysis
+# Querying and Analyzing SQL Databases
 This repository contains the links to my two educational blogs about SQL. One has to do with the Yelp database analysis and another has to do with SQL window functions. 
 
 ## Yelp Database Analysis
