@@ -1,7 +1,7 @@
 # Querying and Analyzing SQL Databases
 This repository contains the links to my two educational blogs about SQL. One has to do with the Yelp database analysis and another has to do with SQL window functions. 
 
-## Yelp Database Analysis
+## 1. Yelp Database Analysis
 This is the final assignment of _SQL for Data Science_, a course created by the University of California, Davis and offered by Coursera. The final assignment accesses the Yelp database, within the Coursera platform, and provides a worksheet of questions that test students' SQL skills. The name of the final assignment is __Data Scientist Role Play: Profiling and Analyzing the Yelp Dataset__. The picture below shows the ER diagram of the Yelp database. 
 
 ![image](https://github.com/marvin-rubia/Querying-and-Analyzing-the-Yelp-Database-in-SQL/assets/140475770/0aebcbf7-5008-46bc-b61b-627ae5dc54d1)
@@ -9,7 +9,7 @@ This is the final assignment of _SQL for Data Science_, a course created by the 
 __Link to the blog__:
 I wrote a blog to guide _anyone_ in accomplishing the assignment. Here is the link to my educational article: [SQL Guide to Yelp Database (Final Assignment of “SQL for Data Science”)](https://marvinrubia.medium.com/sql-guide-to-yelp-database-final-assignment-of-sql-for-data-science-35a0a1091a07). I also uploaded a .txt file to this repository. The file serves as the worksheet, which consists of questions and my SQL codes that answer them. However, I recommend that you refer to the blog as I added some comprehending comments about my SQL scripts and their outputs that are not found in the text file.
 
-## Making Sense of Window Functions
+## 2. Making Sense of Window Functions
 
 In this article, I briefly cover when the `GROUP BY` clause is limited and how window functions can help. It also explores the power of some SQL window functions using a sample database, explained codes, and visual guidance. The image below shows one of those visuals used in the said article. 
 
